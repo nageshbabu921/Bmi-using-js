@@ -1,0 +1,23 @@
+.container{
+    font-size: 50px;
+    text-align: center;
+}
+.box{
+    font-size: 50px;
+    background-color: chartreuse;
+
+}
+.input1{
+    font-size: 50px;
+}
+.input2{
+    font-size: 50px;
+}
+#btn{
+    font-size: 50px;
+    background-color:yellow;
+    border:green;
+}
+#input3{
+    font-size: 50px;
+}
